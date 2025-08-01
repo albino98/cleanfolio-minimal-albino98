@@ -10,3 +10,10 @@ Alternative version of [cleanfolio-minimal](https://github.com/rjshkhr/cleanfoli
 
 ## Preview
 
+[1](1.png)
+
+[2](2.png)
+
+[3](3.png)
+
+[mobile](4.png)
