@@ -14,6 +14,8 @@ Alternative version of [cleanfolio-minimal](https://github.com/rjshkhr/cleanfoli
 
 ![2](2.png)
 
+### Dark theme
+
 ![3](3.png)
 
 ### Mobile
